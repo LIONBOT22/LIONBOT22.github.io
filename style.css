@@ -12,7 +12,7 @@ h1{
  
  .kanit-thin {
   font-family: "Kanit", sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   font-size: 1rem;
   font-style: normal;
 }
@@ -127,7 +127,9 @@ h1{
  padding: 25px 70px;
  border: 1;
  width: max-content;
- margin: 0 auto;
+ margin: auto;
+ border-radius: 75%;
+ font-family: "Kanit", sans-serif;
  
  
 }
@@ -138,7 +140,9 @@ h1{
  padding: 25px 70px;
  border: 1;
  width: max-content;
- margin: 70px;
+ margin: auto;
+ border-radius: 45%;
+ font-family: "Kanit", sans-serif;
  
 }
 
@@ -149,3 +153,27 @@ h1{
  margin: 0 auto;
  
 }
+
+.btn-3 {
+ 
+ width: max-content;
+ margin: auto;
+ background-color: aqua;
+ padding: 25px 70px;
+ border: 1;
+ border-radius: 45%;
+ font-family: "Kanit", sans-serif;
+ 
+ 
+}
+
+.obstante {
+ 
+ width: max-content;
+ font-size: 1rem;
+ margin: auto;
+ color: black;
+ border-radius: 50%;
+ 
+ 
+    }
