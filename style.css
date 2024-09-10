@@ -12,7 +12,8 @@ h1{
  
  .kanit-thin {
   font-family: "Kanit", sans-serif;
-  font-weight: 100;
+  font-weight: 300;
+  font-size: 1rem;
   font-style: normal;
 }
 
@@ -123,8 +124,10 @@ h1{
 .btn-1 {
  
  background-color: aqua;
- padding: 15px 35px;
+ padding: 25px 70px;
  border: 1;
+ width: max-content;
+ margin: 0 auto;
  
  
 }
@@ -132,8 +135,17 @@ h1{
 .btn-2 {
  
  background-color: aqua;
- padding: 15px 35px;
+ padding: 25px 70px;
  border: 1;
+ width: max-content;
+ margin: 70px;
  
+}
+
+.Titulo {
+ 
+ width: max-content;
+ font-size: 4rem;
+ margin: 0 auto;
  
 }
